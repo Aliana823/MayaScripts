@@ -11,4 +11,5 @@ Useful scripts for working with Maya
 6) Copy and Paste the code in the editor
 7) Now go (File -> Save script to shelf..) and input a name
 8) A new button should now be added to the shelf
+![shelf](images/shelf.png)
 9) Enjoy
