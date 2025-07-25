@@ -7,9 +7,11 @@ Useful scripts for working with Maya
 2) Open Maya
 3) Open the Script Editor (Windows -> General Editors -> Script Editor) OR the button at the bottom right of Maya
 4) Click on the small + button
+![add-script](images/add-script.png)
 5) Choose Python or MEL, depending on the script you chose (I will either have both or 1 of them available)
 6) Copy and Paste the code in the editor
 7) Now go (File -> Save script to shelf..) and input a name
+![save-script](images/save-to-shelf.png)
 8) A new button should now be added to the shelf
 ![shelf](images/shelf.png)
 9) Enjoy
